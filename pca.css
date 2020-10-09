@@ -1,0 +1,34 @@
+h1 {color: blue; }
+body {
+    background-color: lightgoldenrodyellow;
+}
+h1 {
+    border-style: double;
+    border-width: 5px;
+}
+
+ul li{
+    font-size:2vw;
+}
+h1 {
+    font-family: Courier;
+}
+h2 {
+    font-family: Courier;
+}
+h3 {
+    font-family: Courier;
+}
+h4 {
+    font-family: Courier;
+}
+h5 {
+    font-family: Courier;
+}
+h6 {
+    font-family: Courier;
+}
+ul {
+    font-family: Courier;
+}
+em {color: blue;}
